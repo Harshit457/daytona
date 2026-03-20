@@ -58,7 +58,6 @@ vitest.config.*.timestamp*
 
 .eslintcache
 .tmp/
-.env.local
 
 # Python package metadata
 *.egg-info/
@@ -84,3 +83,6 @@ examples/**/*.png
 go.work.sum
 
 .claude/worktrees
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
